@@ -186,7 +186,7 @@ namespace programa_de_carro
 
             }
 
-            public string apagado()
+            public string apagado()//funcion de apagado
             {
 
 
@@ -200,7 +200,7 @@ namespace programa_de_carro
                 }
 
                 
-                Console.WriteLine(mensaje);
+                Console.WriteLine(mensaje);//mensaje
                 return mensaje;
 
             }
@@ -214,7 +214,7 @@ namespace programa_de_carro
 
                 mensaje = "Caracateristicas del Automovil: \nMarca: BMW M2 \nModelo: 2022 \nColor: Rojo \nVelocidad Maxima: 250 KP/H";
 
-                Console.WriteLine(mensaje);
+                Console.WriteLine(mensaje);//mensaje
                 return mensaje;
 
 
